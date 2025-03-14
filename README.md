@@ -1,4 +1,4 @@
-# Quratulain-B  <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Quratulain-B  <h2 align="left">Hi 👋! My name is Quratulain shah and I'm a web developer</h2>
 
 ###
 
